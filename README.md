@@ -19,6 +19,7 @@ Main function to execute, runs / delegates following sub-functions
 * Step 3: Activity Names, Replace ids with real names
 * Export step 4 dataset, using sub-function
   * export_data()
+ 
 ### ra2: Prepared subfunction for step 5 (calculatio of means for all subject,activity combinations) 
 
 
